@@ -1,1 +1,1 @@
-# Hi-Kod-Mobil-Uygulama-Geli-tirme-
+# Hi-Kod-Mobil-Uygulama-Gelistirme-
