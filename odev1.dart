@@ -57,7 +57,7 @@ void main() {
   } else if (charge < 10) {
     print("Kritik batarya seviyesi.");
   } else {
-    print("Telefon uzaydan geldi heralde.");
+    print("Telefon uzaydan geldi herhalde.");
   }
 
   print("---------------");
